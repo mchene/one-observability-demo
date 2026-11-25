@@ -102,6 +102,7 @@ nav:
       - Cleanup Script: operations/cleanup.md
       - CDK Cleanup: operations/cdk-cleanup.md
       - ECS Port Forwarding: operations/ecs-port-forwarding.md
+      - Security Architecture Review: operations/security-architecture-review.md
   - Contributing: contributing.md
   - Changelog: changelog.md
   - API Reference: api/
